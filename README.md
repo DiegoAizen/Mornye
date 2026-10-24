@@ -432,7 +432,11 @@ Interested in contributing? Check out the [Contributing Guide](CONTRIBUTING.md) 
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/sections/section-disclaimer-dark.svg"><img src="assets/readme/sections/section-disclaimer-light.svg" height="32" align="top" alt=""></picture> Disclaimer
 
-This repository and its contents are provided strictly for educational and research purposes. The software is provided "as-is" without warranty of any kind, express or implied, as stated in the [MIT License](LICENSE).
+Mornye is licensed under the [GNU Lesser General Public License v3.0 only (LGPL-3.0-only)](LICENSE), together with the incorporated [GNU GPL v3.0 terms](COPYING). Copyright 2026 zarzet. Third-party components retain their own license notices.
+
+This repository is a fork of [mornyeapp/Mornye](https://github.com/mornyeapp/Mornye). Changes in this fork do not imply endorsement by the upstream maintainers.
+
+The software is provided "as-is" without warranty of any kind, express or implied, as stated in its license.
 
 - No copyrighted content is hosted, stored, mirrored, or distributed by this repository.
 - Users must ensure that their use of this software is properly authorized and complies with all applicable laws, regulations, and third-party terms of service.
